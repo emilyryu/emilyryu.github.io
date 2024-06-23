@@ -11,29 +11,23 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 1 
         - name: Papers
           url: papers/
+          weight: 1 
+        - name: Teaching
+          url: teaching/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Contact
+          url: contact/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 5
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    description: "I'm a third-year PhD student in Computer Science at Cornell University, advised by Éva Tardos and Jon Kleinberg. My research interests span algorithmic game theory, mechanism design, and optimization, particularly with more realistic models of behavioral and cognitive constraints."
     author: Emily Ryu
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: G-DEFBS2HYP7
     DateFormat: "January 2006"
     defaultTheme: dark
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -43,7 +37,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["papers","teaching","contact"]
     ShowRssButtonInSectionTermList: false
     ShowToc: false
     disableScrollToTop: true
@@ -54,41 +48,31 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Emily Ryu (SITE UNDER CONSTRUCTION)
-          subtitle: "Hello! I'm a third-year PhD student in Computer Science at Cornell University. I'm very fortunate to be advised by [Prof. Éva Tardos](https://www.cs.cornell.edu/~eva/) and [Prof. Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), and be supported by the [NSF GRFP](https://www.nsfgrfp.org/). My research interests span algorithmic game theory, mechanism design, and optimization, particularly with more realistic models of behavioral and cognitive constraints. Recently, I've been thinking about matching markets with biased and  malleable preferences.
+          title: Emily Ryu
+          subtitle: "Hello! I'm a third-year PhD student in Computer Science at Cornell University. I'm very fortunate to be advised by [**Prof. Éva Tardos**](https://www.cs.cornell.edu/~eva/) and [**Prof. Jon Kleinberg**](https://www.cs.cornell.edu/home/kleinber/), and be supported by the [**NSF GRFP**](https://www.nsfgrfp.org/). My research interests span algorithmic game theory, mechanism design, and optimization, particularly with more realistic models of behavioral and cognitive constraints. Recently, I've been thinking about matching markets with biased and malleable preferences.
 
 <br><br>
-Previously, I graduated from Princeton University with an A.B. in Chemistry and minors in Applied Math and Computer Science, where I worked with [Prof. Matt Weinberg](https://www.cs.princeton.edu/~smattw/) on Bayesian auction design for multi-item revenue maximization. I also wrote my senior thesis in physical organic chemistry under the supervision of [Prof. Robert Knowles](https://knowleslab.princeton.edu/).
+Previously, I graduated from Princeton University with an A.B. in Chemistry and minors in Applied Math and Computer Science, where I worked with [**Prof. Matt Weinberg**](https://www.cs.princeton.edu/~smattw/) on Bayesian auction design for multi-item revenue maximization.
 
 <br><br>
-Non-academic interests (many starting with a C and supported by images): caffeine, cats, colouring-of-hair, [crafting](https://www.instagram.com/egg.t.arts/), dance, yoga"
+Non-academic interests (many starting with a C and supported by images): [**caffeine**](/coffee.jpg), [**cats**](/pokki.jpg), [**colouring-of-hair**](/colouring.jpg), [**crafting**](https://www.instagram.com/egg.t.arts/), dance, yoga"
           imageUrl: "avatar.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: eryu_headshot
           buttons:
-            - name: Books
-              url: books/
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            - name: Teaching
+              url: teaching/
+            - name: CV (updated June 2023)
+              url: "/CV_eryu.pdf"
 
     socialIcons:
         - name: Email
-          url: mailto:eryu@cs.cornell.edu
-        - name: CV
-          url: CV_eryu.pdf
+          url: contact/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=5OdxkNEAAAAJ
-        - name: Location
-          url: location/
 
 
     assets:

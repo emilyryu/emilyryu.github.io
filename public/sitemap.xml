@@ -50,10 +50,10 @@
     <loc>https://emilyryu.github.io/tags/oleic-science/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://emilyryu.github.io/papers/</loc>
+    <loc>https://emilyryu.github.io/papersverbose/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://emilyryu.github.io/papers/paper1/</loc>
+    <loc>https://emilyryu.github.io/papersverbose/paper1/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://emilyryu.github.io/courses/</loc>
@@ -68,7 +68,7 @@
     <loc>https://emilyryu.github.io/tags/sausage-dogs/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://emilyryu.github.io/papers/paper2/</loc>
+    <loc>https://emilyryu.github.io/papersverbose/paper2/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://emilyryu.github.io/tags/zoology/</loc>
@@ -96,5 +96,11 @@
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://emilyryu.github.io/archive/</loc>
+  </url><url>
+    <loc>https://emilyryu.github.io/contact/</loc>
+  </url><url>
+    <loc>https://emilyryu.github.io/papers/</loc>
+  </url><url>
+    <loc>https://emilyryu.github.io/teaching/</loc>
   </url>
 </urlset>
