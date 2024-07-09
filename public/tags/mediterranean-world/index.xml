@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mediterranean World on Emily Ryu</title>
-    <link>https://emilyryu.github.io/tags/mediterranean-world/</link>
+    <link>http://localhost:1313/tags/mediterranean-world/</link>
     <description>Recent content in Mediterranean World on Emily Ryu</description>
-    <generator>Hugo -- 0.127.0</generator>
+    <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://emilyryu.github.io/tags/mediterranean-world/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/mediterranean-world/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unusual Uses For Olive Oil</title>
-      <link>https://emilyryu.github.io/papersverbose/paper1/</link>
+      <link>http://localhost:1313/papersverbose/paper1/</link>
       <pubDate>Wed, 15 Oct 2003 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/papersverbose/paper1/</guid>
+      <guid>http://localhost:1313/papersverbose/paper1/</guid>
       <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001.</description>
     </item>
   </channel>

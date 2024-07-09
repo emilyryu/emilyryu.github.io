@@ -17,7 +17,7 @@ _To appear at EC 2024._ <br>
 
 - **Calibrated recommendations for users with decaying attention.** <br>
 Jon Kleinberg, Emily Ryu, and Éva Tardos. <br>
-_Poster presentation at EC 2023 Gender Inclusion Workshop._ <br>
+_To appear at SAGT 2024._ <br>
 [[arxiv](https://arxiv.org/abs/2302.03239)] [[poster](/poster_calrecs.pdf)]
 
 - **Multivariable-adjusted trends in mortality due to alcoholic liver disease among adults in the United States, from 1999-2017.** <br>

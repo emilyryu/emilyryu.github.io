@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Emily Ryu</title>
-    <link>https://emilyryu.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Emily Ryu</description>
-    <generator>Hugo -- 0.127.0</generator>
+    <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://emilyryu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>French</title>
-      <link>https://emilyryu.github.io/tags/french/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/tags/french/</guid>
+      <link>http://localhost:1313/tags/french/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/french/</guid>
       <description></description>
     </item>
     <item>
       <title>Irregular Verbs</title>
-      <link>https://emilyryu.github.io/tags/irregular-verbs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/tags/irregular-verbs/</guid>
+      <link>http://localhost:1313/tags/irregular-verbs/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/irregular-verbs/</guid>
       <description></description>
     </item>
     <item>
       <title>Italian</title>
-      <link>https://emilyryu.github.io/tags/italian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/tags/italian/</guid>
+      <link>http://localhost:1313/tags/italian/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/italian/</guid>
       <description></description>
     </item>
     <item>
       <title>Philology</title>
-      <link>https://emilyryu.github.io/tags/philology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/tags/philology/</guid>
+      <link>http://localhost:1313/tags/philology/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/philology/</guid>
       <description></description>
     </item>
     <item>
       <title>Portuguese</title>
-      <link>https://emilyryu.github.io/tags/portuguese/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/tags/portuguese/</guid>
+      <link>http://localhost:1313/tags/portuguese/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/portuguese/</guid>
       <description></description>
     </item>
     <item>
       <title>Romance Languages</title>
-      <link>https://emilyryu.github.io/tags/romance-languages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/tags/romance-languages/</guid>
+      <link>http://localhost:1313/tags/romance-languages/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/romance-languages/</guid>
       <description></description>
     </item>
     <item>
       <title>Spanish</title>
-      <link>https://emilyryu.github.io/tags/spanish/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/tags/spanish/</guid>
+      <link>http://localhost:1313/tags/spanish/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spanish/</guid>
       <description></description>
     </item>
     <item>
       <title>History of Oil</title>
-      <link>https://emilyryu.github.io/tags/history-of-oil/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/tags/history-of-oil/</guid>
+      <link>http://localhost:1313/tags/history-of-oil/</link>
+      <pubDate>Wed, 15 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/history-of-oil/</guid>
       <description></description>
     </item>
     <item>
       <title>Mediterranean World</title>
-      <link>https://emilyryu.github.io/tags/mediterranean-world/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/tags/mediterranean-world/</guid>
+      <link>http://localhost:1313/tags/mediterranean-world/</link>
+      <pubDate>Wed, 15 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mediterranean-world/</guid>
       <description></description>
     </item>
     <item>
       <title>Oleic Science</title>
-      <link>https://emilyryu.github.io/tags/oleic-science/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/tags/oleic-science/</guid>
+      <link>http://localhost:1313/tags/oleic-science/</link>
+      <pubDate>Wed, 15 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/oleic-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Canine Pulmonary Efficiency</title>
-      <link>https://emilyryu.github.io/tags/canine-pulmonary-efficiency/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/tags/canine-pulmonary-efficiency/</guid>
+      <link>http://localhost:1313/tags/canine-pulmonary-efficiency/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/canine-pulmonary-efficiency/</guid>
       <description></description>
     </item>
     <item>
       <title>Sausage Dogs</title>
-      <link>https://emilyryu.github.io/tags/sausage-dogs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/tags/sausage-dogs/</guid>
+      <link>http://localhost:1313/tags/sausage-dogs/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sausage-dogs/</guid>
       <description></description>
     </item>
     <item>
       <title>Zoology</title>
-      <link>https://emilyryu.github.io/tags/zoology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/tags/zoology/</guid>
+      <link>http://localhost:1313/tags/zoology/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/zoology/</guid>
       <description></description>
     </item>
     <item>
       <title>Portugese</title>
-      <link>https://emilyryu.github.io/tags/portugese/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/tags/portugese/</guid>
+      <link>http://localhost:1313/tags/portugese/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/portugese/</guid>
       <description></description>
     </item>
     <item>
       <title>Celtic Languages</title>
-      <link>https://emilyryu.github.io/tags/celtic-languages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/tags/celtic-languages/</guid>
+      <link>http://localhost:1313/tags/celtic-languages/</link>
+      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/celtic-languages/</guid>
       <description></description>
     </item>
     <item>
       <title>Irish</title>
-      <link>https://emilyryu.github.io/tags/irish/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/tags/irish/</guid>
+      <link>http://localhost:1313/tags/irish/</link>
+      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/irish/</guid>
       <description></description>
     </item>
     <item>
       <title>Profanity</title>
-      <link>https://emilyryu.github.io/tags/profanity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emilyryu.github.io/tags/profanity/</guid>
+      <link>http://localhost:1313/tags/profanity/</link>
+      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/profanity/</guid>
       <description></description>
     </item>
   </channel>
