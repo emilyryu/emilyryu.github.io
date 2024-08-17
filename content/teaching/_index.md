@@ -6,6 +6,7 @@ description: "Courses TA-ed and/or graded"
 # Teaching
 
 ### Cornell University
+- [CS 6850: The Structure of Information Networks](https://www.cs.cornell.edu/courses/cs6850/2024fa/), Fall 2024, TA
 - [CS 2850: Networks](https://www.cs.cornell.edu/courses/cs2850/2021fa/), Fall 2021, TA
 
 ### Princeton University
