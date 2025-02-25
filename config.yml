@@ -1,6 +1,7 @@
 baseURL: "https://emilyryu.github.io/" 
 title: Emily Ryu
-paginate: 20
+pagination:
+    pagerSize: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -22,7 +23,7 @@ menu:
           weight: 3
 
 params:
-    description: "I'm a fourth-year PhD student in Computer Science at Cornell University, advised by Éva Tardos and Jon Kleinberg. My research interests span algorithmic game theory, mechanism design, and optimization, particularly with more realistic models of behavioral and cognitive constraints."
+    description: "I'm a fourth-year PhD student in Computer Science at Cornell University, advised by Éva Tardos and Jon Kleinberg. My research interests span algorithmic game theory, mechanism design, and optimization, particularly with more realistic models of human behavior and cognition."
     author: Emily Ryu
     googleAnalyticsID: "G-DEFBS2HYP7"
     DateFormat: "January 2006"
@@ -65,7 +66,7 @@ Non-academic interests (many starting with a C and supported by images): [**caff
               url: papers/
             - name: Teaching
               url: teaching/
-            - name: CV (updated Aug 2024)
+            - name: CV (updated Feb 2025)
               url: "/CV_eryu.pdf"
 
     socialIcons:
