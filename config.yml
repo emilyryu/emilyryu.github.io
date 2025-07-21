@@ -6,7 +6,6 @@ pagination:
 module:
   imports:
     - path: github.com/adityatelange/hugo-PaperMod
-        - 
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
