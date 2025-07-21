@@ -2,7 +2,11 @@ baseURL: "https://emilyryu.github.io/"
 title: Emily Ryu
 pagination:
     pagerSize: 20
-theme: PaperMod
+# theme: PaperMod
+module:
+  imports:
+    - path: github.com/adityatelange/hugo-PaperMod
+        - 
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
