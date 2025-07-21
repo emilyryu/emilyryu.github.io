@@ -5,6 +5,11 @@ description: "Publications and preprints"
 
 # Papers
 
+- **Networked information aggregation via machine learning.** <br>
+Michael Kearns, Aaron Roth, Emily Ryu. <br>
+_Preprint._ <br>
+[[arxiv](https://arxiv.org/abs/2507.09683)] 
+
 - **Modeling reputation-based behavioral biases in school choice.** <br>
 Jon Kleinberg, Sigal Oren, Emily Ryu, and Éva Tardos. <br>
 _EC 2024._ <br>
