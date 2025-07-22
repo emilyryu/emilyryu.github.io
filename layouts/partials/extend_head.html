@@ -1,3 +1,5 @@
-{{ if and (hugo.IsProduction) (.Site.Params.googleAnalyticsID) }}
-  {{- partial "analytics.html" . }}
+{{ if hugo.IsProduction }}
+    {{- with site.Config.Services.GoogleAnalytics.ID }}
+        {{ template "_internal/google_analytics.html" . }}
+    {{ end }}
 {{ end }}
