@@ -33,7 +33,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.128.2 # Use a recent version of Hugo
+      HUGO_VERSION: 0.146.0 # Use a recent version of Hugo
     steps:
       - name: Install Go
         uses: actions/setup-go@v5
