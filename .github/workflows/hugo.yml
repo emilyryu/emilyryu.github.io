@@ -38,7 +38,7 @@ jobs:
       - name: Install Go
         uses: actions/setup-go@v5
         with:
-          go-version: '^1.22' # Hugo requires Go
+          go-version: '^1.22'
           cache: false
 
       - name: Checkout
@@ -51,8 +51,11 @@ jobs:
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: ${{ env.HUGO_VERSION }}
-          extended: true # PaperMod requires the extended version
+          extended: true
 
+      - name: Clean Hugo Cache # ADD THIS NEW STEP
+        run: rm -rf /home/runner/.cache/hugo_cache
+      
       - name: Build with Hugo
         run: |
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
