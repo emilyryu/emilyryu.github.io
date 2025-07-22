@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+{{- with .Site.Params.profileMode }}
+<div class="profile">
+    <div class="profile_inner">
+        {{- if .imageUrl -}}
+        <img src="{{ .imageUrl | absURL }}" height="{{ .imageHeight | default 120 }}" width="{{ .imageWidth | default 120 }}"
+            alt="{{ .imageTitle | default "profile image" }}" style="border-radius: 50%;" />
+        {{- end }}
+
+        <h1>{{ .title | default site.Title | markdownify }}</h1>
+        <span>{{ .subtitle | markdownify }}</span>
+
+        {{/* RENDER FULL BIO CONTENT HERE */}}
+        <div class="entry-content">
+            {{- $.RawContent | markdownify -}}
+        </div>
+
+        {{- partial "social_icons.html" .Site.Params.socialIcons -}}
+
+        {{- if .buttons }}
+        <div classs="buttons">
+            {{- range .buttons }}
+            <a class="button" href="{{ .url | absURL }}" rel="noopener" title="{{ .name }}">
+                <span class="button-inner">
+                    {{ .name }}
+                </span>
+            </a>
+            {{- end }}
+        </div>
+        {{- end }}
+    </div>
+</div>
+{{- end }}
+
+{{ end }}

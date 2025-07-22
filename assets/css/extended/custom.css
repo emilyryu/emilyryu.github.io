@@ -1,0 +1,7 @@
+/* Force profile bio to display fully on the homepage */
+.profile .entry-content {
+    max-height: none;
+    overflow: visible;
+    text-overflow: clip;
+    -webkit-line-clamp: unset;
+}
