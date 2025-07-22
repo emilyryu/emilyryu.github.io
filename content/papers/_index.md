@@ -1,9 +1,7 @@
 ---
 title: "Papers"
-description: "Publications and preprints"
+description: ""
 ---
-
-# Papers
 
 - **Networked information aggregation via machine learning.** <br>
 Michael Kearns, Aaron Roth, and Emily Ryu. <br>

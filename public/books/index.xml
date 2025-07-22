@@ -6,14 +6,6 @@
     <description>Recent content in Books on Emily Ryu</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/books/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Portugese Irregular Verbs</title>
-      <link>http://localhost:1313/books/book1/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/books/book1/</guid>
-      <description>This book discusses Portugese irregular verbs in great details.</description>
-    </item>
   </channel>
 </rss>

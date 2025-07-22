@@ -1,9 +1,7 @@
 ---
 title: "Teaching"
-description: "Courses TA-ed and/or graded"
+description: ""
 ---
-
-# Teaching
 
 ### Cornell University
 - [CS 6850: The Structure of Information Networks](https://www.cs.cornell.edu/courses/cs6850/2024fa/), Fall 2024, TA
