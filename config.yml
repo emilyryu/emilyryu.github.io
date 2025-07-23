@@ -28,7 +28,6 @@ menu:
 params:
     description: "I'm a rising fifth-year PhD student in Computer Science at Cornell University, advised by Éva Tardos and Jon Kleinberg. My research interests span algorithmic game theory, mechanism design, and optimization, particularly with more realistic models of human behavior, cognition, and learning."
     author: Emily Ryu
-    googleAnalyticsID: "G-DEFBS2HYP7"
     DateFormat: "January 2006"
     defaultTheme: dark
     hideFooter: true
@@ -83,6 +82,10 @@ params:
       text: "Emily Ryu"
       icon: favicon.ico
       iconHeight: 18
+
+services:
+    googleAnalytics:
+        id: "G-DEFBS2HYP7"
 
 markup:
     goldmark:
