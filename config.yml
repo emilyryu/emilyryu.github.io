@@ -62,7 +62,7 @@ params:
               url: papers/
             - name: Teaching
               url: teaching/
-            - name: CV (updated July 2025)
+            - name: CV (updated Sep 2025)
               url: "/CV_eryu.pdf"
 
     socialIcons:
