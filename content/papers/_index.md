@@ -5,12 +5,12 @@ description: ""
 
 - **Emergent Alignment via Competition.** <br>
 Natalie Collina, Surbhi Goel, Aaron Roth, Emily Ryu, and Mirah Shi. <br>
-_Preprint, 2025._ <br>
+_Accepted to NeurIPS 2025 Workshop on Algorithmic Collective Action._ <br>
 [[arxiv](https://arxiv.org/abs/2509.15090v1)]
 
 - **Networked information aggregation via machine learning.** <br>
 Michael Kearns, Aaron Roth, and Emily Ryu. <br>
-_Preprint, 2025._ <br>
+_To appear at SODA 2026._ <br>
 [[arxiv](https://arxiv.org/abs/2507.09683)] 
 
 - **Modeling reputation-based behavioral biases in school choice.** <br>
