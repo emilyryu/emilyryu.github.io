@@ -5,7 +5,7 @@ description: ""
 
 - **Emergent Alignment via Competition.** <br>
 Natalie Collina, Surbhi Goel, Aaron Roth, Emily Ryu, and Mirah Shi. <br>
-_Accepted to NeurIPS 2025 Workshop on Algorithmic Collective Action._ <br>
+_Accepted to NeurIPS 2025 Workshop on Algorithmic Collective Action and Workshop on Multi-Turn Interactions in Large Language Models._ <br>
 [[arxiv](https://arxiv.org/abs/2509.15090v1)]
 
 - **Networked information aggregation via machine learning.** <br>
